@@ -4,7 +4,8 @@
 
 I'm a Software Engineer and a Consultant IT! I'm from Sicily on Italy 🇮🇹 , actually I live in Catania and I love travel. Currently I'm a freelance website developer and I'm learning programmation and styling code languages both as a Frontend and as a Backend.
 Ask me if you need a personal blog or eCommerce website!
-You can find me on <a href="https://www.linkedin.com/in/gianmarcopolizzi/" rel="nofollow"><img src="https://raw.githubusercontent.com/GianPolizzi/GianPolizzi/master/linkedin-3-16.png" alt="LinkedIn" title="LinkedIn icon without padding" style="max-width:100%;"></a>
+You can find me on <a href="https://www.linkedin.com/in/gianmarcopolizzi/" rel="nofollow"></a>, <a href="https://www.facebook.com/gianmarco.polizzi.3/" rel="nofollow"></a> and <a href="https://www.instagram.com/gianpolizzi/?hl=it" rel="nofollow"></a>
+
 <!--
 **GianPolizzi/GianPolizzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
