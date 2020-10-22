@@ -6,9 +6,9 @@ I'm a Software Engineer and a Consultant IT! I'm from Sicily on Italy 🇮🇹 ,
 Ask me if you need a personal blog or eCommerce website!
 You can find me on:
 
-![linkedin-icon](https://user-images.githubusercontent.com/65085829/96911615-5dbeaf00-14a1-11eb-8821-13ef66296fe5.png) <a href="https://www.linkedin.com/in/gianmarcopolizzi/" rel="nofollow">LinedIn</a>
+![linkedin-icon](https://user-images.githubusercontent.com/65085829/96911615-5dbeaf00-14a1-11eb-8821-13ef66296fe5.png) <a href="https://www.linkedin.com/in/gianmarcopolizzi/" rel="nofollow">LinkedIn</a>
 
-<a href="https://www.facebook.com/gianmarco.polizzi.3/" rel="nofollow">Facebook</a>
+![facebook-icon](https://user-images.githubusercontent.com/65085829/96912717-133e3200-14a3-11eb-852c-194af83a51dc.png) <a href="https://www.facebook.com/gianmarco.polizzi.3/" rel="nofollow">Facebook</a>
 
 <a href="https://www.instagram.com/gianpolizzi/?hl=it" rel="nofollow">Instagram</a>
 
