@@ -1,10 +1,33 @@
 ![pexels-egor-kamelev-754115](https://user-images.githubusercontent.com/65085829/96905581-ea18a400-1498-11eb-8f3b-a8bae21c4bfa.jpg)
 
-### Hello there! 👋
+### Ciao e benvenuto! 👋
 
-I'm a Software Engineer and a Consultant IT! I'm from Sicily on Italy 🇮🇹 , actually I live in Catania and I love travel. Currently I'm a freelance website developer and I'm learning programmation and styling code languages both as a Frontend and as a Backend.
-Ask me if you need a personal blog or eCommerce website!
-You can find me on:
+Sono laureato in Ingegneria Informatica ed attualmente lavoro come consulente IT! Sono nato a Catania 🇮🇹  ed amo molto viaggiare, sia per svago che per lavoro, anche se al momento preferisco lo smartworking. Il mio interesse lavorativo è focalizzato sul Software Project Management e sulla programmazione Backend e Frontend dimostrando una forte predisposizione per l'insegnamento ed il coaching.
+
+## Digital Skills
+
+# Backend
+- Java;
+- Spring (Core, Beans, Data, Boot)
+- Hibernate
+
+# Frontend
+- JavaScript, HTML, CSS;
+- Bootstrap
+- Angular.TS
+- React.JS
+
+
+## Projects
+
+I progetti che ho caricato sono molto semplici ed hanno scopo didattico, in particolare:
+
+-> TreeSchoolBackendLezioni per prendere dimestichezza con Java SE
+-> JavaScritpES6Lesson per apprendere le basi JS, HTML, CSS
+-> nasdaq_react_spa per comprendere i principi base di React.js
+
+
+Disponibile per eventuali collaborazioni, puoi trovarmi anche su:
 
 ![linkedin-icon](https://user-images.githubusercontent.com/65085829/96911615-5dbeaf00-14a1-11eb-8821-13ef66296fe5.png) <a href="https://www.linkedin.com/in/gianmarcopolizzi/" rel="nofollow">LinkedIn</a>
 
