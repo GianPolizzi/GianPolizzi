@@ -1,17 +1,17 @@
 ![pexels-egor-kamelev-754115](https://user-images.githubusercontent.com/65085829/96905581-ea18a400-1498-11eb-8f3b-a8bae21c4bfa.jpg)
 
-### Ciao e benvenuto! 👋
+# Ciao e benvenuto! 👋
 
 Sono laureato in Ingegneria Informatica ed attualmente lavoro come consulente IT! Sono nato a Catania 🇮🇹  ed amo molto viaggiare, sia per svago che per lavoro, anche se al momento preferisco lo smartworking. Il mio interesse lavorativo è focalizzato sul Software Project Management e sulla programmazione Backend e Frontend dimostrando una forte predisposizione per l'insegnamento ed il coaching.
 
 ## Digital Skills
 
-# Backend
+### Backend
 - Java;
 - Spring (Core, Beans, Data, Boot)
 - Hibernate
 
-# Frontend
+### Frontend
 - JavaScript, HTML, CSS;
 - Bootstrap
 - Angular.TS
@@ -26,6 +26,8 @@ I progetti che ho caricato sono molto semplici ed hanno scopo didattico, in part
 -> JavaScritpES6Lesson per apprendere le basi JS, HTML, CSS
 -> nasdaq_react_spa per comprendere i principi base di React.js
 
+
+## Contacts
 
 Disponibile per eventuali collaborazioni, puoi trovarmi anche su:
 
