@@ -24,7 +24,7 @@ I progetti che ho caricato sono molto semplici ed hanno scopo didattico, in part
 
 - "TreeSchoolBackendLezioni" per prendere dimestichezza con Java SE
 - "JavaScritpES6Lesson" per apprendere le basi JS, HTML, CSS
-- "nasdaq_react_spa per" comprendere i principi base di React.js
+- "nasdaq_react_spa" per comprendere i principi base di React.js
 - "AngularRoutingWebApp" per apprendere i principi cardine di Angular.ts
 
 
