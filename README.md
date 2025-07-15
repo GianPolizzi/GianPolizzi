@@ -1,4 +1,5 @@
-![pexels-egor-kamelev-754115](https://user-images.githubusercontent.com/65085829/96905581-ea18a400-1498-11eb-8f3b-a8bae21c4bfa.jpg)
+![mac_blue_lights](https://github.com/user-attachments/assets/9e7144c0-c01e-40ba-b486-cf5f77d19915)
+
 
 # Ciao e benvenuto! 👋
 
