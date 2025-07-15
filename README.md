@@ -1,15 +1,19 @@
 ![mac_blue_lights](https://github.com/user-attachments/assets/9e7144c0-c01e-40ba-b486-cf5f77d19915)
 
 
-# Ciao e benvenuto! 👋
+# Welcome to my GitHub Profile! 👋
 
-Sono laureato in Ingegneria Informatica ed attualmente lavoro come consulente IT! Sono nato a Catania 🇮🇹  ed amo molto viaggiare, sia per svago che per lavoro, anche se al momento preferisco lo smartworking. Il mio interesse lavorativo è focalizzato sul Software Project Management e sulla programmazione Backend e Frontend dimostrando una forte predisposizione per l'insegnamento ed il coaching.
+I was born in Catania 🇮🇹 and I like travel.
+I have a degree in Software Engineering and currently work as an IT consultant.
+My professional interests are Software Project Management and Solution Architecture, oriented to Backend development, demonstrating a strong predisposition for teaching and coaching.
 
 ## Digital Skills
 
 ### Backend
-- Java;
-- Spring (Core, Beans, Data, Boot)
+- Java
+- SQL
+- Spring Framework
+- Quarkus Framework
 - Hibernate
 
 ### Frontend
@@ -21,17 +25,18 @@ Sono laureato in Ingegneria Informatica ed attualmente lavoro come consulente IT
 
 ## Projects
 
-I progetti che ho caricato sono molto semplici ed hanno scopo didattico, in particolare:
+The projects I uploaded are very simple and have an educational purpose, in particular:
 
-- "TreeSchoolBackendLezioni" per prendere dimestichezza con Java SE
-- "JavaScritpES6Lesson" per apprendere le basi JS, HTML, CSS
-- "nasdaq_react_spa" per comprendere i principi base di React.js
-- "AngularRoutingWebApp" per apprendere i principi cardine di Angular.ts
+- "TreeSchoolBackendLezioni" - Java SE
+- "JavaScritpES6Lesson" - Javascript, HTML, CSS
+- "nasdaq_react_spa" - React.js
+- "AngularRoutingWebApp" - Angular.ts
+- "securitydemo" - Java Spring (Spring Core, Spring Web, Spring Data, Spring Security, Springboot)
 
 
 ## Contacts
 
-Disponibile per eventuali collaborazioni, puoi trovarmi anche su:
+Available for any collaborations, to the following contacts:
 
 ![linkedin-icon](https://user-images.githubusercontent.com/65085829/96911615-5dbeaf00-14a1-11eb-8821-13ef66296fe5.png) <a href="https://www.linkedin.com/in/gianmarcopolizzi/" rel="nofollow">LinkedIn</a>
 
